@@ -27,7 +27,7 @@ WWO API key here: https://developer.worldweatheronline.com/api/
 
 WWO_API_KEY = '<INSERT_WWWO_API_KEY_HERE>'
 MAX_FORECAST_LEN = 13
-_DEFAULT_TEMP_UNIT = 'F'
+_DEFAULT_TEMP_UNIT = 'C'
 
 _TEMP_LIMITS = {
     'hot': {'C': 25, 'F': 77},
